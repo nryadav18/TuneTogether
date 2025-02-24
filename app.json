@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "frontend",
-    "slug": "frontend",
+    "name": "Tune Together",
+    "slug": "Tune-Together",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/updatedLogo.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/mainLogo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,12 +17,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/AppLogo4.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.rajyadav123.TuneTogether"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/mainLogo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c37dade5-7d81-4430-aa40-2940104c8b3f"
+      }
     }
   }
 }
