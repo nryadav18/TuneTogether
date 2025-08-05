@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size:40px;">Nike Shoe Slider</h1>
-<h3 align="center">Connecting People over the Music! Tune Together, a Full-Stack Mobile Application developed using React Native and Node.js, where users can create or join rooms to listen to music in sync, control playback collaboratively, and chat in real time.</h3>
+<h1 align="center" style="font-size:40px;">Tune Together 🎵</h1>
+<h3 align="center">Tune Together - Connecting People over the Music! It is a Full-Stack Mobile Application developed using React Native and Node.js, where users can create or join rooms to listen to music in sync, control playback collaboratively, and chat in real time.</h3>
 
 ---
 
