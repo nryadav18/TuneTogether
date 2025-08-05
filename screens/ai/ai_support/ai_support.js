@@ -63,7 +63,7 @@ const AI_Support = () => {
 
         try {
             const response = await fetch(
-                'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyALQs3LTRymA9eq3gyGp5rqNn1kBVBgDbE',
+                `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${process.env.GOOGLE_API_KEY}`,
                 requestOptions
             );
 
