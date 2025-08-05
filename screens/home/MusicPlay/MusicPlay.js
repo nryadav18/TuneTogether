@@ -37,7 +37,7 @@ const MusicPlayerCard = ({ songDetails, selectedIndex , setSelectedIndex}) => {
           setSound(null);
         }
         const { sound: newSound } = await Audio.Sound.createAsync(
-          { uri: `https://localsongsdata.onrender.com/${songDetails[currentSongIndex]?.url}` },
+          { uri: `https://184d-2409-40f0-104d-89ed-b44c-185c-8a72-d231.ngrok-free.app/${songDetails[currentSongIndex]?.url}` },
           { shouldPlay: true },
           (status) => {
             if (status.isLoaded) {
@@ -150,7 +150,7 @@ const MusicPlayerCard = ({ songDetails, selectedIndex , setSelectedIndex}) => {
           <Image
             source={
               songDetails[currentSongIndex]?.img && {
-                uri: `https://localsongsdata.onrender.com/${songDetails[currentSongIndex]?.img}`,
+                uri: `https://184d-2409-40f0-104d-89ed-b44c-185c-8a72-d231.ngrok-free.app/${songDetails[currentSongIndex]?.img}`,
               }
             }
             style={styles.albumArt}

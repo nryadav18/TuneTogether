@@ -21,7 +21,7 @@ const Songs = ({ onSongSelect }) => {
         const fetchSongs = async () => {
             setLoader(true);
             try {
-                const response = await axios.get('https://localsongsdata.onrender.com/get-data');
+                const response = await axios.get('https://ps-backend-18./get-data');
                 setSongsData(response.data);
                 setOriginalSongsData(response.data); // Save original data
             } catch (error) {
@@ -109,9 +109,9 @@ const Songs = ({ onSongSelect }) => {
 
         const selectedSong = songsData[index];
         if (selectedSong) {
-            onSongSelect(`https://localsongsdata.onrender.com/${selectedSong.img}`);
+            onSongSelect(`https://ps-backend-18./${selectedSong.img}`);
             try {
-                const { sound: newSound } = await Audio.Sound.createAsync({ uri: `https://localsongsdata.onrender.com/${selectedSong.url}` });
+                const { sound: newSound } = await Audio.Sound.createAsync({ uri: `https://ps-backend-18.onrender.com/${selectedSong.url}` });
                 setSound(newSound);
 
                 if (selectedSong.position) {
@@ -220,7 +220,7 @@ const Songs = ({ onSongSelect }) => {
                                     </View>
                                 ) : (
                                     <>
-                                        <Image style={styles.SongImage} source={{ uri: `https://localsongsdata.onrender.com/${item.img}`}} />
+                                        <Image style={styles.SongImage} source={{ uri: `https://ps-backend-18.onrender.com/${item.img}`}} />
                                         <View style={styles.SongTexts}>
                                             <Text style={[styles.SongName, { color: textColor }]}>{item.name}</Text>
                                             <Text style={[styles.ArtistName, { color: textColor }]}>

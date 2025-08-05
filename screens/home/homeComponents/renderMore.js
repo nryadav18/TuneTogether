@@ -3,7 +3,7 @@ import React, { useEffect } from 'react'
 
 const renderMore = () => {
 
-  const MainDataUrl = 'https://localsongsdata.onrender.com/get-data';
+  const MainDataUrl = 'https://184d-2409-40f0-104d-89ed-b44c-185c-8a72-d231.ngrok-free.app/get-data';
 
   const fetchData = async () => {
     try {

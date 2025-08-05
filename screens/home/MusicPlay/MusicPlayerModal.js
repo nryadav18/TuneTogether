@@ -29,7 +29,7 @@ const MusicPlayerModal = ({
   const [isDragging, setIsDragging] = useState(false);
   const slideAnim = useRef(new Animated.Value(300)).current;
 
-  const MainDataUrl = 'https://localsongsdata.onrender.com/';
+  const MainDataUrl = 'https://184d-2409-40f0-104d-89ed-b44c-185c-8a72-d231.ngrok-free.app/';
 
   if (!songDetails) {
     return null;

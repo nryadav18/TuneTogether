@@ -29,7 +29,7 @@ import MusicPlayerCard from './screens/home/MusicPlay/MusicPlay';
 import Home from './screens/home/home';
 import TuneTogther from './screens/tune/tune'
 import Favourites from './screens/fav/fav'
-import Friends from './screens/friends/friends'
+import Friends from './screens/friends/friends';
 import Profile from './screens/profile/profile'
 import Create from './screens/tune/room/create';
 import Join from './screens/tune/room/join';
@@ -107,7 +107,7 @@ const TabScreen = () => {
 export default function App() {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName='Launch'>
+      <Stack.Navigator initialRouteName='Genre'>
         {
           StackArray.map((item, index) => {
             if (item.name === "Launch") {

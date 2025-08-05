@@ -76,7 +76,7 @@ const Welcome = ({ navigation }) => {
         <SafeAreaView style={styles.container}>
             <Animated.View style={[styles.background, opacity]}>
                 <ImageBackground
-                    source={backgrounds[backgroundindex]}
+                    source={require('../../assets/welcome-back1.jpg')}
                     style={[styles.background]}
                     resizeMode="cover"
                 >

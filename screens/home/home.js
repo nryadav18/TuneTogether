@@ -5,7 +5,6 @@ import TopArtists from './homeComponents/topArtists';
 import Themes from './homeComponents/Themes';
 import Languages from './homeComponents/Languages';
 import { LinearGradient } from 'expo-linear-gradient';
-import NeonButton from './homeComponents/NeonButton';
 import axios from 'axios';
 import AntDesign from '@expo/vector-icons/AntDesign';
 import LottieView from 'lottie-react-native';
@@ -15,8 +14,8 @@ const Home = ({ navigation }) => {
 
     const [loader, setLoader] = useState(true)
 
-    const DataUrl = 'https://localsongsdata.onrender.com/get-data';
-    const MainDataUrl = 'https://localsongsdata.onrender.com/';
+    const DataUrl = 'https://184d-2409-40f0-104d-89ed-b44c-185c-8a72-d231.ngrok-free.app/get-data';
+    const MainDataUrl = 'https://184d-2409-40f0-104d-89ed-b44c-185c-8a72-d231.ngrok-free.app/';
     const [fetchedData, setFeatchedData] = useState(null);
 
     const fetchTracks = async () => {
@@ -47,13 +46,15 @@ const Home = ({ navigation }) => {
         <UserContext.Provider value={fetchedData || []}>
             {
                 loader ? (
-                    <LottieView
-                        source={require('../../assets/Music_Loader.json')}
-                        autoPlay
-                        loop
-                        speed={1.5}
-                        style={styles.lottie}
-                    />
+                    <View style={{flex : 1, justifyContent : 'center', alignItems : 'center'}}>
+                        <LottieView
+                            source={require('../../assets/Music_Loader.json')}
+                            autoPlay
+                            loop
+                            speed={1.5}
+                            style={styles.lottie}
+                        />
+                    </View>
                 ) : (<LinearGradient colors={['white', 'white', 'white']} style={styles.gradient}>
                     <ScrollView showsVerticalScrollIndicator={false} >
                         <View style={styles.header}>
@@ -131,8 +132,8 @@ const styles = StyleSheet.create({
         backgroundColor: 'transparent',
     },
     lottie: {
-        width: 200,
-        height: 200,
+        width: 250,
+        height: 250,
         resizeMode: 'contain',
     },
     greeting: {

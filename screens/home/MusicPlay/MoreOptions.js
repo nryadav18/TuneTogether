@@ -14,7 +14,7 @@ const MoreOptions = ({ route }) => {
   const [filteredData, setFilteredData] = useState([]);
   const [selectedIndex, setSelectedIndex] = useState(null); // Track selected index instead of ID
   const { songsData, itemName } = route.params;
-  const MainDataUrl = 'https://localsongsdata.onrender.com/'; // Base URL for images
+  const MainDataUrl = 'https://184d-2409-40f0-104d-89ed-b44c-185c-8a72-d231.ngrok-free.app/'; // Base URL for images
 
   // Filtering function
   const filterData = () => {

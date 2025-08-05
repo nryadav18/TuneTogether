@@ -14,14 +14,14 @@ const Create = ({ route }) => {
     const { size } = route.params;
     const [rc, setRC] = useState('123456');
     const [three, setThree] = useState(1);
-    const [currentImage, setCurrentImage] = useState('https://localsongsdata.onrender.com/uploads/movies/AppLogo.png');
+    const [currentImage, setCurrentImage] = useState('https://184d-2409-40f0-104d-89ed-b44c-185c-8a72-d231.ngrok-free.app/uploads/movies/AppLogo.png');
     const [songsData, setSongsData] = useState(null);
     const [alertVisible, setAlertVisible] = useState(false);
 
     useEffect(() => {
         const fetchSongs = async () => {
             try {
-                const response = await axios.get('https://localsongsdata.onrender.com/get-data');
+                const response = await axios.get('https://184d-2409-40f0-104d-89ed-b44c-185c-8a72-d231.ngrok-free.app/get-data');
                 setSongsData(response.data);
             } catch (error) {
                 console.error('Error fetching songs data:', error);

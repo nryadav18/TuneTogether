@@ -16,7 +16,7 @@ import LottieView from 'lottie-react-native';
 import { debounce } from 'lodash';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-const MainDataUrl = 'https://localsongsdata.onrender.com/';
+const MainDataUrl = 'https://184d-2409-40f0-104d-89ed-b44c-185c-8a72-d231.ngrok-free.app/';
 
 const Search = ({ route }) => {
   const { songsData } = route.params;
