@@ -6,39 +6,39 @@
 ## 🎬 App Demo
 
 <p align="center">
-  <img src="./outputs/1.jpg" width="30%" style="margin: 150px;" />
-  <img src="./outputs/2.jpg" width="30%" style="margin: 150px;" />
-  <img src="./outputs/3.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/1.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/2.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/3.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/4.jpg" width="30%" style="margin: 150px;" />
-  <img src="./outputs/5.jpg" width="30%" style="margin: 150px;" />
-  <img src="./outputs/6.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/4.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/5.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/6.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/7.jpg" width="30%" style="margin: 150px;" />
-  <img src="./outputs/8.jpg" width="30%" style="margin: 150px;" />
-  <img src="./outputs/9.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/7.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/8.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/9.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/10.jpg" width="30%" style="margin: 150px;" />
-  <img src="./outputs/11.jpg" width="30%" style="margin: 150px;" />
-  <img src="./outputs/12.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/10.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/11.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/12.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/13.jpg" width="30%" style="margin: 150px;" />
-  <img src="./outputs/14.jpg" width="30%" style="margin: 150px;" />
-  <img src="./outputs/15.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/13.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/14.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/15.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/16.jpg" width="30%" style="margin: 150px;" />
-  <img src="./outputs/17.jpg" width="30%" style="margin: 150px;" />
-  <img src="./outputs/18.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/16.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/17.png" width="30%" style="margin: 150px;" />
+  <img src="./outputs/18.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
@@ -48,57 +48,57 @@
 </p>
 
 <p align="center">
-  <img src="./outputs/22.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/22.png" width="30%" style="margin: 150px;" />
   <img src="./outputs/23.png" width="30%" style="margin: 150px;" />
-  <img src="./outputs/24.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/24.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/25.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/25.png" width="30%" style="margin: 150px;" />
   <img src="./outputs/26.png" width="30%" style="margin: 150px;" />
-  <img src="./outputs/27.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/27.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/28.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/28.png" width="30%" style="margin: 150px;" />
   <img src="./outputs/29.png" width="30%" style="margin: 150px;" />
-  <img src="./outputs/30.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/30.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/31.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/31.png" width="30%" style="margin: 150px;" />
   <img src="./outputs/32.png" width="30%" style="margin: 150px;" />
-  <img src="./outputs/33.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/33.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/34.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/34.png" width="30%" style="margin: 150px;" />
   <img src="./outputs/35.png" width="30%" style="margin: 150px;" />
-  <img src="./outputs/36.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/36.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/37.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/37.png" width="30%" style="margin: 150px;" />
   <img src="./outputs/38.png" width="30%" style="margin: 150px;" />
-  <img src="./outputs/39.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/39.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/40.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/40.png" width="30%" style="margin: 150px;" />
   <img src="./outputs/41.png" width="30%" style="margin: 150px;" />
-  <img src="./outputs/42.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/42.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/43.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/43.png" width="30%" style="margin: 150px;" />
   <img src="./outputs/44.png" width="30%" style="margin: 150px;" />
-  <img src="./outputs/45.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/45.png" width="30%" style="margin: 150px;" />
 </p>
 
 <p align="center">
-  <img src="./outputs/46.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/46.png" width="30%" style="margin: 150px;" />
   <img src="./outputs/47.png" width="30%" style="margin: 150px;" />
-  <img src="./outputs/48.jpg" width="30%" style="margin: 150px;" />
+  <img src="./outputs/48.png" width="30%" style="margin: 150px;" />
 </p>
 
 ---
